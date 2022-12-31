@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  AncientCard
+
+  Created by MartyLin on 10/20/14.
+  Copyright (c) 2014 MartyLin. All rights reserved.
+*/
+"page1"="This is an ancient mysterious magic\rIt can read your mind\r\rIf Your ready for this\r\rTap here";
+"page2"="This is an ancient mysterious magic\rIt can read your mind\r\rIf Your ready for this\r\r\r\r\rTap here";
+"PressAndHold"="Press and hold\rWaiting pink change to white";
+"readmind"="Now I will read your mind\r\r\r\r\r";
+"lastPage"="Your card has been taken away\r\r\r\r\r";
+"tapCard"="Please select a card\rdon't tap card , just remember it\r\r\r\r\r";
+"reSatrt"="Play again";
+"GoReview"="Go Review";

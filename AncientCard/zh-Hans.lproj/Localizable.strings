@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  AncientCard
+
+  Created by MartyLin on 10/20/14.
+  Copyright (c) 2014 MartyLin. All rights reserved.
+*/
+"page2"="这是一个远古时代的魔术\r它可以读取你的心思\r\r如果你准备好了\r\r\r\r\r按一下按钮";
+"page1"="这是一个远古时代的魔术\r它可以读取你的心思\r\r如果你准备好了\r\r按一下按钮";
+"PressAndHold"="按住不要放\r等待从粉红变为白色";
+"readmind"="现在我将要读取你心思\r\r\r\r\r";
+"lastPage"="你刚刚选的卡片是不是已经被取走了\r\r\r\r\r";
+"tapCard"="请你选一张牌\r不要碰到卡片,只要记住牌就好\r\r\r\r\r";
+"reSatrt"="重新开始";
+"GoReview"="星星评价";
